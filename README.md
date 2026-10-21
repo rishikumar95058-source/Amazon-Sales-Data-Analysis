@@ -1,5 +1,5 @@
 Amazon-Sales-Data-Analysis
-🛒 Amazon Sales Data Analytics
+🛒 Amazon Sales Data Analysis
 
 📌 Project Overview
 
